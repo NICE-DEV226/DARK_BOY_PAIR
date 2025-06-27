@@ -70,7 +70,7 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "SPI~XMD~" + string_session;
+                        let md = "Darky~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `✅ 𝙲𝚘𝚍𝚎 𝚍𝚎 𝚙𝚊𝚒𝚛𝚊𝚐𝚎 𝚛é𝚞𝚜𝚜𝚒 !
 ✨ 𝙱𝚘𝚝 𝚌𝚘𝚗𝚗𝚎𝚌𝚝é 𝚊𝚟𝚎𝚌 𝚜𝚞𝚌𝚌è𝚜 !  
