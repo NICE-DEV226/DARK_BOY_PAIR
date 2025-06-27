@@ -72,32 +72,33 @@ var randomItem = selectRandomItem(items);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
                         let md = "SPI~XMD~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
-                        let desc = `Q𝚛 𝙲𝚘𝚍𝚎 𝙲𝚘𝚗𝚗𝚎𝚌𝚝𝚎𝚍 𝚂𝚞𝚌𝚌𝚎𝚜𝚜𝚏𝚞𝚕𝚕𝚢
-𝙼𝚊𝚍𝚎 𝚆𝚒𝚝𝚑 𝐒𝐏𝐈𝐑𝐈𝐓𝐘-𝐗𝐌𝐃 
-______________________________________
-╔════◇
-║ 『 𝚆𝙾𝚆 𝚈𝙾𝚄'𝚅𝙴 𝙲𝙷𝙾𝚂𝙴𝙽 𝐒𝐏𝐈𝐑𝐈𝐓𝐘-𝐗𝐌𝐃』
-║ 𝚈𝚘𝚞 𝙷𝚊𝚟𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍 𝚝𝚑𝚎 𝙵𝚒𝚛𝚜𝚝 𝚂𝚝𝚎𝚙 𝚝𝚘 𝙳𝚎𝚙𝚕𝚘𝚢 𝚊 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝙱𝚘𝚝.
-╚════════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 𝚈𝚝𝚞𝚋𝚎: https://youtube.com/@Azahackkiller
-║❒ 𝙾𝚠𝚗𝚎𝚛: https://wa.me/22603582906
-║❒ 𝚁𝚎𝚙𝚘: https://github.com/DARKMAN226/SPIRITY-XMD.git
-║❒ 𝚆𝚊𝙲𝚑𝚊𝚗𝚗𝚎𝚕: https://whatsapp.com/channel/0029VbAfF6f1dAw7hJidqS0i
-║❒ 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾:  𝙳̷𝚊̷𝚛̷𝚔̷-𝙳̷𝙴̷𝚟̷🩸
-╚════════════════════════╝
-_____________________________________
+                        let desc = `✅ 𝙲𝚘𝚍𝚎 𝚍𝚎 𝚙𝚊𝚒𝚛𝚊𝚐𝚎 𝚛é𝚞𝚜𝚜𝚒 !
+✨ 𝙱𝚘𝚝 𝚌𝚘𝚗𝚗𝚎𝚌𝚝é 𝚊𝚟𝚎𝚌 𝚜𝚞𝚌𝚌è𝚜 !  
+𝙵𝚊𝚋𝚛𝚒𝚚𝚞é par : 𝔻𝔸ℝ𝕂-DEV🍷
 
-_𝙳𝚘𝚗'𝚝 𝙵𝚘𝚛𝚐𝚎𝚝 𝚃𝚘 𝙶𝚒𝚟𝚎 𝚂𝚝𝚊𝚛 𝚃𝚘 𝙼𝚢 𝚁𝚎𝚙𝚘"
+══════════════◇══════════════
+║ 『 VOUS AVEZ CHOISI LE 🩸 *DARK-BOY* 』
+║ └── Vous avez accompli la première étape pour  
+║     déployer votre bot WhatsApp personnalisé.
+══════════════════════════════
 
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙳̷𝚊̷𝚛̷𝚔̷-𝙳̷𝙴̷𝚟̷🩸*`; 
+╔═════『 🔗 POUR DE L’AIDE 』═════╗
+║ 📺 YouTube : https://youtube.com/@Azahackkiller
+║ 👤 Propriétaire : https://wa.me/22603582906
+║ 📁 Dépôt GitHub : https://github.com/DARKMAN226/DARK-BOY.git
+║ 📢 Canal WhatsApp : https://whatsapp.com/channel/0029VbAfF6f1dAw7hJidqS0i
+║ 🙏 Remerciements : 𝙳̷𝚊̷𝚛̷𝚔̷-𝙳̷𝙴̷𝚟̷🩸
+╚════════════════════════════╝
+
+➤ _Pense à laisser une ★ étoile sur le repo !_  
+
+> *© Propulsé par 𝙳̷𝚊̷𝚛̷𝚔̷-𝙳̷𝙴̷𝚟̷🩸*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: " 𝖇𝖔𝖙 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
-thumbnailUrl: "https://files.catbox.moe/zmhz85.jpg",
+title: "𝔻𝔸ℝ𝕂-𝔹𝕆𝕐",
+thumbnailUrl: "https://files.catbox.moe/u4g4te.png",
 sourceUrl: "https://whatsapp.com/channel/0029VbAfF6f1dAw7hJidqS0i",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -107,32 +108,33 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `Q𝚛 𝙲𝚘𝚍𝚎 𝙲𝚘𝚗𝚗𝚎𝚌𝚝𝚎𝚍 𝚂𝚞𝚌𝚌𝚎𝚜𝚜𝚏𝚞𝚕𝚕𝚢
-𝙼𝚊𝚍𝚎 𝚆𝚒𝚝𝚑 𝐒𝐏𝐈𝐑𝐈𝐓𝐘-𝐗𝐌𝐃 
-______________________________________
-╔════◇
-║ 『 𝚆𝙾𝚆 𝚈𝙾𝚄'𝚅𝙴 𝙲𝙷𝙾𝚂𝙴𝙽 𝐒𝐏𝐈𝐑𝐈𝐓𝐘-𝐗𝐌𝐃 』
-║ 𝚈𝚘𝚞 𝙷𝚊𝚟𝚎 𝙲𝚘𝚖𝚙𝚕𝚎𝚝𝚎𝚍 𝚝𝚑𝚎 𝙵𝚒𝚛𝚜𝚝 𝚂𝚝𝚎𝚙 𝚝𝚘 𝙳𝚎𝚙𝚕𝚘𝚢 𝚊 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝙱𝚘𝚝.
-╚════════════════════════╝
-╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 𝚈𝚝𝚞𝚋𝚎: https://youtube.com/@Azahackkiller
-║❒ 𝙾𝚠𝚗𝚎𝚛: https://wa.me/22603582906
-║❒ 𝚁𝚎𝚙𝚘: https://github.com/DARKMAN226/SPIRITY-XMD.git
-║❒ 𝚆𝚊𝙲𝚑𝚊𝚗𝚗𝚎𝚕: https://whatsapp.com/channel/0029VbAfF6f1dAw7hJidqS0i
-║❒ 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾: 𝙳̷𝚊̷𝚛̷𝚔̷-𝙳̷𝙴̷𝚟̷🩸
-╚════════════════════════╝
-_____________________________________
+                            let desc = `✅ 𝙲𝚘𝚍𝚎 𝚍𝚎 𝚙𝚊𝚒𝚛𝚊𝚐𝚎 𝚛é𝚞𝚜𝚜𝚒 !
+✨ 𝙱𝚘𝚝 𝚌𝚘𝚗𝚗𝚎𝚌𝚝é 𝚊𝚟𝚎𝚌 𝚜𝚞𝚌𝚌è𝚜 !  
+𝙵𝚊𝚋𝚛𝚒𝚚𝚞é par : 𝔻𝔸ℝ𝕂-DEV🍷
 
-_𝙳𝚘𝚗'𝚝 𝙵𝚘𝚛𝚐𝚎𝚝 𝚃𝚘 𝙶𝚒𝚟𝚎 𝚂𝚝𝚊𝚛 𝚃𝚘 𝙼𝚢 𝚁𝚎𝚙𝚘"
+══════════════◇══════════════
+║ 『 VOUS AVEZ CHOISI LE 🩸 *DARK-BOY* 』
+║ └── Vous avez accompli la première étape pour  
+║     déployer votre bot WhatsApp personnalisé.
+══════════════════════════════
 
-> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝙳̷𝚊̷𝚛̷𝚔̷-𝙳̷𝙴̷𝚟̷🩸*`; 
+╔═════『 🔗 POUR DE L’AIDE 』═════╗
+║ 📺 YouTube : https://youtube.com/@Azahackkiller
+║ 👤 Propriétaire : https://wa.me/22603582906
+║ 📁 Dépôt GitHub : https://github.com/DARKMAN226/DARK-BOY.git
+║ 📢 Canal WhatsApp : https://whatsapp.com/channel/0029VbAfF6f1dAw7hJidqS0i
+║ 🙏 Remerciements : 𝙳̷𝚊̷𝚛̷𝚔̷-𝙳̷𝙴̷𝚟̷🩸
+╚════════════════════════════╝
+
+➤ _Pense à laisser une ★ étoile sur le repo !_  
+
+> *© Propulsé par 𝙳̷𝚊̷𝚛̷𝚔̷-𝙳̷𝙴̷𝚟̷🩸*`;  
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: " 𝖒𝖉 𝖈𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉 ✅  ",
-thumbnailUrl: "https://files.catbox.moe/zmhz85.jpg",
+title: "𝔻𝔸ℝ𝕂-𝔹𝕆𝕐",
+thumbnailUrl: "https://files.catbox.moe/u4g4te.png",
 sourceUrl: "https://whatsapp.com/channel/0029VbAfF6f1dAw7hJidqS0i",
 mediaType: 2,
 renderLargerThumbnail: true,
